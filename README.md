@@ -15,8 +15,8 @@ flutter run
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa](SCREENSHOTS/ana_sayfa.png)
-![Arama Kısmı](SCREENSHOTS/arama_kısmı.png)
-![Ödeme Kısmı](SCREENSHOTS/ödeme_kısmı.png)
-![Ürün Ekleme](SCREENSHOTS/ürün_ekleme.png)
-![Ürün Silme](SCREENSHOTS/ürün_silme.png)
+![Ana Sayfa](SCREENSHOTS/ana sayfa.png)
+![Arama Kısmı](SCREENSHOTS/arama kısmı.png)
+![Ödeme Kısmı](SCREENSHOTS/ödeme kısmı.png)
+![Ürün Ekleme](SCREENSHOTS/ürün ekleme.png)
+![Ürün Silme](SCREENSHOTS/ürün silme.png)
