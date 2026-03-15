@@ -13,10 +13,10 @@ flutter run
 ```
 
 
-## Ekran Görüntüleri
+## Screenshots
 
-![Ana Sayfa](SCREENSHOTS/ana_sayfa.png)
-![Arama Kısmı](SCREENSHOTS/arama_kısmı.png)
-![Ödeme Kısmı](SCREENSHOTS/ödeme_kısmı.png)
-![Ürün Ekleme](SCREENSHOTS/ürün_ekleme.png)
-![Ürün Silme](SCREENSHOTS/ürün_silme.png)
+![Home Screen](SCREENSHOTS/home_screen.png)
+![Search](SCREENSHOTS/search.png)
+![Payment](SCREENSHOTS/payment.png)
+![Add Product](SCREENSHOTS/add_product.png)
+![Remove Product](SCREENSHOTS/remove_product.png)
