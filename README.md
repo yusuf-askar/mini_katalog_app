@@ -12,10 +12,11 @@ flutter pub get
 flutter run
 ```
 
+
 ## Ekran Görüntüleri
 
-![Ana Sayfa](screenshots/01_ana_sayfa.png)
-![Arama Kısmı](screenshots/02_arama_kısmı.png)
-![Ödeme Kısmı](screenshots/03_ödeme_kısmı.png)
-![Ürün Ekleme](screenshots/04_ürün_ekleme.png)
-![Ürün Silme](screenshots/05_ürün_silme.png)
+![Ana Sayfa](SCREENSHOTS/ana_sayfa.png)
+![Arama Kısmı](SCREENSHOTS/arama_kısmı.png)
+![Ödeme Kısmı](SCREENSHOTS/ödeme_kısmı.png)
+![Ürün Ekleme](SCREENSHOTS/ürün_ekleme.png)
+![Ürün Silme](SCREENSHOTS/ürün_silme.png)
