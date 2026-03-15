@@ -15,8 +15,8 @@ flutter run
 
 ## Screenshots
 
-![Home Screen](SCREENSHOTS/home_screen.png)
-![Search](SCREENSHOTS/search.png)
-![Payment](SCREENSHOTS/payment.png)
-![Add Product](SCREENSHOTS/add_product.png)
-![Remove Product](SCREENSHOTS/remove_product.png)
+![Home](screenshots/home_screen.png)
+![Search](screenshots/search.png)
+![Payment](screenshots/payment.png)
+![Add Product](screenshots/add_product.png)
+![Remove Product](screenshots/remove_product.png)
